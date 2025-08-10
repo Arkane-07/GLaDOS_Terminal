@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artefacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Model weights / large assets
+Scripts/models/
+*.pt
+*.pth
+
+# IDE / editor
+.vscode/
+.idea/

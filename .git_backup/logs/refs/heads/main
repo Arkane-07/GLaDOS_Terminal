@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1310dad35f2cb9b54e0a8ff5bf0afe5ff0892adb Arkane-o7 <abhilaksh.chauhan2024@vitstudent.ac.in> 1754590980 +0530	clone: from https://github.com/LuckeyDuckey/GLaDOS-Terminal.git
+1310dad35f2cb9b54e0a8ff5bf0afe5ff0892adb 38414731dceb8a2b810f2b362506eb1ffe814e9c Arkane-o7 <abhilaksh.chauhan2024@vitstudent.ac.in> 1754828473 +0530	commit: Rename author to Arkane, add setup guide, packaging support, dynamic model selector, TTS toggle, resource path, prepare GitHub repo
+38414731dceb8a2b810f2b362506eb1ffe814e9c c964716713c0563f1003f90341368e9014033fca Arkane-o7 <abhilaksh.chauhan2024@vitstudent.ac.in> 1754830611 +0530	commit: docs: update repo clone URLs to Arkane-07/GLaDOS_Terminal
+c964716713c0563f1003f90341368e9014033fca 46ecc7d3b793f33325aa5863fdbade10ecfdc2c2 Arkane-o7 <abhilaksh.chauhan2024@vitstudent.ac.in> 1754833001 +0530	commit: Update settings/system prompt, code adjustments, remove legacy Main_NoTTS, update banner
